@@ -1,5 +1,5 @@
 ---
-title: "Fitting noisy gamma processes using RStan"
+title: "Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability"
 subtitle: "Leadbetter, R.L., Gonzalez Caceres, G., and Phatak, A."
 author: 
   - name: Ryan Leadbetter
@@ -145,7 +145,7 @@ RvarFailureTimeFunction <- function(t, y_max_obs, t_max_obs, failure_threshold, 
 
 # Introduction {#sec-intro}
 
-This document contains the supplementary material for Section 5 (Modelling unit-to-unit variability) of the manuscript Leadbetter, R.L, Gonzalez Caceres, G. J. and Phatak, A. (2024) *Fitting noisy gamma processes using RStan*.
+This document contains the supplementary material for Section 5 (Modelling unit-to-unit variability) of the manuscript Leadbetter, R.L, Gonzalez Caceres, G. J. and Phatak, A. (2024) *Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability*.
 
 Here, we demonstrate how the basic noisy gamma process model can be extended to analyse multiple units and how unit-to-unit variability can be included in the model by allowing one or more parameters to vary across units. We fit four models:
 
