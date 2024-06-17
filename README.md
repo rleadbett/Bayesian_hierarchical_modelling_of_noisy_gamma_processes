@@ -1,4 +1,5 @@
 # Bayesian hierarchical modelling of noisy gamma processes
+[![DOI](https://zenodo.org/badge/814873237.svg)](https://zenodo.org/doi/10.5281/zenodo.11900590)
 
 This repository contains tex, code, and online appendix for
 
