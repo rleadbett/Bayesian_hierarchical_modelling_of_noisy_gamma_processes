@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Leadbetter"
+  given-names: "Ryan"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  email: "ryan.leadbetter@postgrad.curtin.edu.au"
+- family-names: "Gabriel"
+  given-names: "GonzalesGonzalez"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  email: "g.gonzalez@postgrad.curtin.edu.au"
+- family-names: "Phatak"
+  given-names: "Aloke"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  email: "aloke.phatak@curtin.edu.au"
+title: "Code for 'Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability'"
+doi: 10.5281/zenodo.1234
+date-released: 2017-12-18
+url: "https://github.com/github-linguist/linguist"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Leadbetter"
+    given-names: "Ryan"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: "ryan.leadbetter@postgrad.curtin.edu.au"
+  - family-names: "Gabriel"
+    given-names: "GonzalesGonzalez"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: "g.gonzalez@postgrad.curtin.edu.au"
+  - family-names: "Phatak"
+    given-names: "Aloke"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: "aloke.phatak@curtin.edu.au"
+  doi: "10.0000/00000"
+  journal: "arXiv"
+  month: 00
+  start: 00 # First page number
+  end: 00 # Last page number
+  title: "Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability"
+  issue: 00
+  volume: 00
+  year: 2024
