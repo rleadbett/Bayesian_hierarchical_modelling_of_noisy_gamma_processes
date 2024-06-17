@@ -1,5 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: >-
+  Code for 'Bayesian hierarchical modelling of noisy gamma
+  processes: model formulation, identifiability, model
+  fitting, and extensions to unit-to-unit variability'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
   - given-names: Ryan
     family-names: Leadbetter
@@ -8,60 +18,40 @@ authors:
     affiliation: >-
       Centre for Transforming Maintenance through Data
       Science, Curtin University
-    orcid: "https://orcid.org/0000-0000-0000-0000"
   - given-names: Gabriel
     family-names: Gonzalez
     email: G.Gonzalez@postgrad.curtin.edu.au
-    name-particle: gabriel
     affiliation: >-
       Centre for Transforming Maintenance through Data
       Science, Curtin University
-    orcid: "https://orcid.org/0000-0000-0000-0000"
   - given-names: Aloke
     family-names: Phatak
     email: Aloke.Phatak@curtin.edu.au
-    name-particle: aloke
     affiliation: >-
       Centre for Transforming Maintenance through Data
       Science, Curtin University
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Code for 'Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability'"
-doi: 10.5281/zenodo.1234
-date-released: 2024-06-17
-url: "https://github.com/github-linguist/linguist"
+identifiers:
+  - type: doi
+    value: 10.1234/zenodo.4321
+  - type: url
+    value: 'https://arxiv.org/abs/1701.02434'
+    description: ArXiv URL
+repository-code: >-
+  https://github.com/rleadbett/Bayesian_hierarchical_modelling_of_noisy_gamma_processes
+license: MIT
 preferred-citation:
   type: article
   authors:
-  - given-names: Ryan
-    family-names: Leadbetter
-    email: ryan.leadbetter@postgrad.curtin.edu.au
-    name-particle: ryan
-    affiliation: >-
-      Centre for Transforming Maintenance through Data
-      Science, Curtin University
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - given-names: Gabriel
-    family-names: Gonzalez
-    email: G.Gonzalez@postgrad.curtin.edu.au
-    name-particle: gabriel
-    affiliation: >-
-      Centre for Transforming Maintenance through Data
-      Science, Curtin University
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - given-names: Aloke
-    family-names: Phatak
-    email: Aloke.Phatak@curtin.edu.au
-    name-particle: aloke
-    affiliation: >-
-      Centre for Transforming Maintenance through Data
-      Science, Curtin University
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Leadbetter"
+    given-names: "Ryan"
+  - family-names: "Gonzalez"
+    given-names: "Gabriel"
+  - family-names: "Phatak"
+    given-names: "Aloke"
   doi: "10.0000/00000"
-  journal: "arXiv"
-  month: 00
-  start: 00 # First page number
-  end: 00 # Last page number
+  journal: "ArXiv"
+  month: 6
   title: "Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability"
-  issue: 00
-  volume: 00
+  issue: 0
+  volume: 0
   year: 2024
