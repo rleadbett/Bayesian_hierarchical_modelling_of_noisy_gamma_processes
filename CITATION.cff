@@ -1,37 +1,61 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Leadbetter"
-  given-names: "Ryan"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-  email: "ryan.leadbetter@postgrad.curtin.edu.au"
-- family-names: "Gabriel"
-  given-names: "GonzalesGonzalez"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-  email: "g.gonzalez@postgrad.curtin.edu.au"
-- family-names: "Phatak"
-  given-names: "Aloke"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-  email: "aloke.phatak@curtin.edu.au"
+  - given-names: Ryan
+    family-names: Leadbetter
+    email: ryan.leadbetter@postgrad.curtin.edu.au
+    name-particle: ryan
+    affiliation: >-
+      Centre for Transforming Maintenance through Data
+      Science, Curtin University
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: Gabriel
+    family-names: Gonzalez
+    email: G.Gonzalez@postgrad.curtin.edu.au
+    name-particle: gabriel
+    affiliation: >-
+      Centre for Transforming Maintenance through Data
+      Science, Curtin University
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: Aloke
+    family-names: Phatak
+    email: Aloke.Phatak@curtin.edu.au
+    name-particle: aloke
+    affiliation: >-
+      Centre for Transforming Maintenance through Data
+      Science, Curtin University
+    orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Code for 'Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability'"
 doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
+date-released: 2024-06-17
 url: "https://github.com/github-linguist/linguist"
 preferred-citation:
   type: article
   authors:
-  - family-names: "Leadbetter"
-    given-names: "Ryan"
+  - given-names: Ryan
+    family-names: Leadbetter
+    email: ryan.leadbetter@postgrad.curtin.edu.au
+    name-particle: ryan
+    affiliation: >-
+      Centre for Transforming Maintenance through Data
+      Science, Curtin University
     orcid: "https://orcid.org/0000-0000-0000-0000"
-    email: "ryan.leadbetter@postgrad.curtin.edu.au"
-  - family-names: "Gabriel"
-    given-names: "GonzalesGonzalez"
+  - given-names: Gabriel
+    family-names: Gonzalez
+    email: G.Gonzalez@postgrad.curtin.edu.au
+    name-particle: gabriel
+    affiliation: >-
+      Centre for Transforming Maintenance through Data
+      Science, Curtin University
     orcid: "https://orcid.org/0000-0000-0000-0000"
-    email: "g.gonzalez@postgrad.curtin.edu.au"
-  - family-names: "Phatak"
-    given-names: "Aloke"
+  - given-names: Aloke
+    family-names: Phatak
+    email: Aloke.Phatak@curtin.edu.au
+    name-particle: aloke
+    affiliation: >-
+      Centre for Transforming Maintenance through Data
+      Science, Curtin University
     orcid: "https://orcid.org/0000-0000-0000-0000"
-    email: "aloke.phatak@curtin.edu.au"
   doi: "10.0000/00000"
   journal: "arXiv"
   month: 00
