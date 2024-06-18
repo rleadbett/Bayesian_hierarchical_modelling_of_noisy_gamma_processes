@@ -32,7 +32,7 @@ authors:
       Science, Curtin University
 identifiers:
   - type: doi
-    value: 10.1234/zenodo.4321
+    value: 10.5281/zenodo.11900591
 repository-code: >-
   https://github.com/rleadbett/Bayesian_hierarchical_modelling_of_noisy_gamma_processes
 license: MIT
