@@ -33,9 +33,6 @@ authors:
 identifiers:
   - type: doi
     value: 10.1234/zenodo.4321
-  - type: url
-    value: 'https://arxiv.org/abs/1701.02434'
-    description: ArXiv URL
 repository-code: >-
   https://github.com/rleadbett/Bayesian_hierarchical_modelling_of_noisy_gamma_processes
 license: MIT
@@ -48,10 +45,8 @@ preferred-citation:
     given-names: "Gabriel"
   - family-names: "Phatak"
     given-names: "Aloke"
-  doi: "10.0000/00000"
   journal: "ArXiv"
-  month: 6
+  volume: 2406.11216
   title: "Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability"
-  issue: 0
-  volume: 0
   year: 2024
+  url: https://arxiv.org/abs/2406.11216

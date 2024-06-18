@@ -2,7 +2,7 @@
 
 This repository contains tex, code, and online appendix for
 
-Ryan Leadbetter, Gabriel Gonzalez Caceres, and Aloke Phatak (2024): Bayesian hierarchical modelling of noisy gamma processes: model formulation, identifiability, model fitting, and extensions to unit-to-unit variability. *arXiv*, 00. [doi:]{}
+Leadbetter, R., Caceres, G. G., & Phatak, A. (2024). Bayesian Hierarchical Modelling of Noisy Gamma Processes: Model Formulation, Identifiability, Model Fitting, and Extensions to Unit-to-Unit Variability. [ArXiv. /abs/2406.11216](https://arxiv.org/abs/2406.11216)
 
 ## Guide to repository
 
